@@ -1,0 +1,16 @@
+h1{
+            color:aquamarine;
+        }
+
+        #para1 {
+            font-size: 20px;
+            color: Blue;
+            background-color:blanchedalmond;
+            border: 7px solid grey ;
+        }
+
+        .commonpara {
+            background-color: rgb(221, 30, 30); 
+            color:#ffff   
+        }
+        
